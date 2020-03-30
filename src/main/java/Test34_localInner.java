@@ -31,13 +31,13 @@ class Outer_Local{
     {
        // Outer_Local.Inner  in = new Outer_Local.Inner();
     }
-    public static void fun{
-        class Inner{
-            public void method()
-            {
-                System.out.println(i);
-                System.out.println(j);
-            }
-        }
-    }
+//    public static void fun{
+//        class Inner{
+//            public void method()
+//            {
+//                System.out.println(i);
+//                System.out.println(j);
+//            }
+//        }
+//    }
 }
